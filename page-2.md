@@ -1,45 +1,49 @@
-🗺️ GAME OVERVIEW
+![Satchel Quest Portada](/assets/SachelQuestPortada.png)
 
-In Satchel Quest each player takes on the role of a mighty hero seeking valor and riches by venturing into the dungeon depths! ⚔️🏰 Defeat monsters 👾 and traps 🪤 to gain Gold 🪙, Experience (XP) ✨, and Valor (VP) 🏆. Use XP to unlock your hero's unique skills, and Gold to add more powerful chips from the Village market to your Satchel 🎒. At the end of the game, the player with the most VP is the winner! 👑
+# 🗺️ RESUMEN DEL JUEGO
 
-Satchel Quest is a bag building puzzle adventure game for 1-4 players played over 5 rounds. 🎲 Each round has 6 phases:
+¡En **Satchel Quest** cada jugador asume el papel de un poderoso héroe que busca valor y riquezas aventurándose en las profundidades de la mazmorra! ⚔️🏰 Derrota monstruos 👾 y trampas 🪤 para ganar Oro 🪙, Experiencia (XP) ✨ y Valor (VP) 🏆. Usa XP para desbloquear las habilidades únicas de tu héroe, y Oro para añadir fichas más poderosas del mercado de la Aldea a tu Mochila (Satchel) 🎒. ¡Al final del juego, el jugador con más VP es el ganador! 👑
 
-⏱️ The 6 Phases
+**Satchel Quest** es un juego de aventuras y puzles de construcción de bolsas (bag building) para 1-4 jugadores que se juega a lo largo de 5 rondas. 🎲 Cada ronda tiene 6 fases:
 
-🛡️ PHASE 1: THE DUNGEON - Players explore a dungeon map by placing chips from their Satchel into each empty space. The chips are double-sided ☯️ so each draw gives you a choice with the goal of filling your dungeon with beneficial combinations of monsters, weapons, chests and more. You will start exploring the top floor of your dungeon, and must fill each floor completely before moving to lower levels 🧗. After you have placed all of the chips from your Satchel, or decide to stop, you will resolve your dungeon.
+## ⏱️ Las 6 Fases
 
-⚙️ PHASE 2: RESOLUTION - Each chip placed in your dungeon will have an effect during the resolution phase. Potions 🧪 recover health, Chests 🧰 can be opened for rewards (but beware of traps), Monsters 🐉 attack you, but you can defeat them to gain great rewards, Coins 💰 and precious Gems 💎 give you money, and Artifacts 📜 offer any reward you choose.
+* **🛡️ FASE 1: LA MAZMORRA** - Los jugadores exploran un mapa de mazmorra colocando fichas de su Mochila en cada espacio vacío. Las fichas son de doble cara ☯️, por lo que cada robo te da a elegir con el objetivo de llenar tu mazmorra con combinaciones beneficiosas de monstruos, armas, cofres y más. Empezarás a explorar el piso superior de tu mazmorra y deberás llenar cada piso por completo antes de pasar a los niveles inferiores 🧗. Después de haber colocado todas las fichas de tu Mochila, o de decidir detenerte, resolverás tu mazmorra.
 
-🏕️ PHASE 3: CAMP - Spend XP ✨ to level up and refresh skills.
+* **⚙️ FASE 2: RESOLUCIÓN** - Cada ficha colocada en tu mazmorra tendrá un efecto durante la fase de resolución. Las Pociones 🧪 recuperan salud, los Cofres 🧰 se pueden abrir para obtener recompensas (pero cuidado con las trampas), los Monstruos 🐉 te atacan, pero puedes derrotarlos para ganar grandes recompensas, las Monedas 💰 y las Gemas preciosas 💎 te dan dinero, y los Artefactos 📜 ofrecen la recompensa que elijas.
 
-🗺️ PHASE 4: PATH - Reveal the next Path card 🃏 which add a special rule or effect for the coming round.
+* **🏕️ FASE 3: CAMPAMENTO** - Gasta XP ✨ para subir de nivel y recargar tus habilidades.
 
-🍻 PHASE 5: TAVERN - Players with less VP heal ❤️‍🩹 or earn Gold 🪙.
+* **🗺️ FASE 4: CAMINO** - Revela la siguiente carta de Camino 🃏, que añade una regla o efecto especial para la ronda en curso.
 
-🏘️ PHASE 6: VILLAGE - Purchase new Chips and Tools 🛠️.
+* **🍻 FASE 5: TABERNA** - Los jugadores con menos VP se curan ❤️‍🩹 o ganan Oro 🪙.
 
-🖼️ AN EXAMPLE FINISHED DUNGEON
+* **🏘️️ FASE 6: ALDEA** - Compra nuevas Fichas y Herramientas 🛠️.
 
-Below you'll find an example of a dungeon after the Dungeon phase has been played, as well as a brief description of how different chips are resolved. 🧩
+## 🖼️ UN EJEMPLO DE MAZMORRA TERMINADA
 
-📝 Key Elements in the Dungeon:
+*A continuación encontrarás un ejemplo de una mazmorra después de haber jugado la fase de Mazmorra, así como una breve descripción de cómo se resuelven las diferentes fichas.* 🧩
 
-🐉 MONSTERS: deal damage and grant rewards.
+![Ejemplo de Mazmorra Terminada](/assets/EjemploDeDungeon.png)
 
-🛡️ SHIELDS and ARMOR: block monster damage.
+### 🔍 Elementos Clave en la Mazmorra:
 
-🧱 OBSTACLES: prevent you from playing chips and block ranged effects!
+* **🐉 MONSTRUOS:** infligen daño y otorgan recompensas.
 
-🧪 POTIONS: recover health!
+* **🛡️ ESCUDOS y ARMADURAS:** bloquean el daño de los monstruos.
 
-🪙 COINS: give you gold.
+* **⚔️ ESPADAS:** golpean a los monstruos en las 4 casillas adyacentes (izquierda, derecha, arriba y abajo).
 
-⚔️ SWORDS: hit monsters in the 4 adjacent squares (left, right, up and down).
+* **🧱 OBSTÁCULOS:** ¡te impiden jugar fichas y bloquean los efectos a distancia!
 
-🧰 CHESTS: want to be near specific types of chips to be disarmed and unlocked!
+* **🏹 ARMAS A DISTANCIA:** golpean a los monstruos desde lejos.
 
-🏹 RANGED WEAPONS: hit monsters from a distance.
+* **🧪 POCIONES:** ¡recuperan salud!
 
-🏺 ARTIFACTS: place in connected groups for a variety of rewards.
+* **🏺 ARTEFACTOS:** Coloca ARTEFACTOS en grupos conectados para obtener una variedad de recompensas.
 
-💎 GEMS: gain value from nearby coins.
+* **🪙 MONEDAS:** te dan oro.
+
+* **🧰 COFRES:** ¡necesitan estar cerca de tipos específicos de fichas para ser desarmados y desbloqueados!
+
+* **💎 GEMAS:** ganan valor gracias a las monedas cercanas.
