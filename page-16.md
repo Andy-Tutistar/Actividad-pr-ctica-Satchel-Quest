@@ -46,5 +46,6 @@ If the purchased chip was the last chip in the shop, **refill all empty spaces i
 ## END OF THE VILLAGE PHASE
 The Village Phase ends when each player has taken 3 turns.
 
+![Foto_Zorro](/assets/zorro.png)
 ---
 **16**
