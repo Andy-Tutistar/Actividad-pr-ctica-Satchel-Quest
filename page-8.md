@@ -8,11 +8,11 @@ Las Habilidades son capacidades especiales a las que tiene acceso cada Héroe, r
 
 Las habilidades vienen en tres **tipos** diferentes, denotados por un símbolo en la ficha de habilidad:
 
-* ![Pasiva](https://via.placeholder.com/30x20?text=INF) **Habilidades Pasivas:** Siempre están en efecto.
+* ![Pasiva](assets/pasiva.png) **Habilidades Pasivas:** Siempre están en efecto.
 
-* ![Activa](https://via.placeholder.com/20x20?text=U) **Habilidades Activas:** Se pueden usar una vez por ronda. Si una Habilidad Activa altera el efecto de una ficha, colócala sobre esa ficha cuando la uses. De lo contrario, voltéala boca abajo para indicar que ya no está disponible durante el resto de la ronda.
+* ![Activa](assets/activa.png) **Habilidades Activas:** Se pueden usar una vez por ronda. Si una Habilidad Activa altera el efecto de una ficha, colócala sobre esa ficha cuando la uses. De lo contrario, voltéala boca abajo para indicar que ya no está disponible durante el resto de la ronda.
 
-* ![Un Solo Uso](https://via.placeholder.com/20x20?text=X) **Habilidades de Un Solo Uso:** Solo se pueden usar una vez por partida y luego la ficha se devuelve a la caja del juego.
+* ![Un Solo Uso](assets/equis.png) **Habilidades de Un Solo Uso:** Solo se pueden usar una vez por partida y luego la ficha se devuelve a la caja del juego.
 
 ### Efectos de las Habilidades
 
@@ -28,11 +28,11 @@ Las Herramientas son objetos de un solo uso que se descartan después de ser uti
 
 **Límite de Herramientas:** Cada jugador puede llevar hasta 3 herramientas. Si un jugador tiene más de 3 herramientas en cualquier momento, debe elegir 3 para conservar y descartar el resto.
 
-* ![Antorcha](https://via.placeholder.com/20x20?text=T) **Antorcha – Después de robar una ficha**, aparta la ficha que acabas de robar. Roba una nueva ficha y juégala, luego regresa la ficha apartada a la bolsa.
+* ![Antorcha](assets/antorcha.png) **Antorcha – Después de robar una ficha**, aparta la ficha que acabas de robar. Roba una nueva ficha y juégala, luego regresa la ficha apartada a la bolsa.
 
-* ![Escalera](https://via.placeholder.com/20x20?text=L) **Escalera – Después de robar una ficha**, coloca la ficha de escalera en un espacio vacío de tu piso actual. Ese piso está **terminado**. Mueve inmediatamente la figura de tu Héroe y coloca la ficha en el siguiente piso. (Roba un nuevo mapa si es necesario).
+* ![Escalera](assets/escalera.png) **Escalera – Después de robar una ficha**, coloca la ficha de escalera en un espacio vacío de tu piso actual. Ese piso está **terminado**. Mueve inmediatamente la figura de tu Héroe y coloca la ficha en el siguiente piso. (Roba un nuevo mapa si es necesario).
 
-* ![Llave](https://via.placeholder.com/20x20?text=K) **Llave –** Durante la Resolución, puedes usar una llave para cumplir con un solo requisito de un cofre de tu elección. **No puedes usar más de una llave por cofre.**
+* ![Llave](assets/llave.png) **Llave –** Durante la Resolución, puedes usar una llave para cumplir con un solo requisito de un cofre de tu elección. **No puedes usar más de una llave por cofre.**
 
 ## TABLERO DE HÉROE Y REFERENCIA DE HABILIDADES
 
