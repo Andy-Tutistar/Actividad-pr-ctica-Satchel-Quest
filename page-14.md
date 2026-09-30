@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="/assets/EjemploDeResolucion.png" alt="Ejemplo de Resolución" style="border: 4px solid #34495e; border-radius: 10px; max-width: 90%;">
+  <img src="/assets/ResolutionExample.png" alt="Resolution Example" style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 </p>
 
 ---
