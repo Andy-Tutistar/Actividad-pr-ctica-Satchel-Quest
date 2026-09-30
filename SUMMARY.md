@@ -17,4 +17,5 @@
 * [Camp, Path, and Tavern Phases](camp-path-and-tavern-phases.md)
 * [Page 9](page-9.md)
 * [Glossary, Path, and Skill Clarifications](glossary-path-and-skill-clarifications.md)
+* [Page 14](page-14.md)
 * [Page 15](page-15.md)
