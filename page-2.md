@@ -1,8 +1,6 @@
-# Page 2
 
-![Satchel Quest Portada](.gitbook/assets/SachelQuestPortada.png)
 
-## 🗺️ RESUMEN DEL JUEGO
+
 <p align="center">
   <img src="/assets/SachelQuestPortada.png" alt="Satchel Quest Portada" style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
 </p>
