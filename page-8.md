@@ -8,11 +8,11 @@ Las Habilidades son capacidades especiales a las que tiene acceso cada Héroe, r
 
 Las habilidades vienen en tres **tipos** diferentes, denotados por un símbolo en la ficha de habilidad:
 
-* **♾️ Habilidades Pasivas:** Siempre están en efecto.
+* ![Pasiva](https://via.placeholder.com/30x20?text=INF) **Habilidades Pasivas:** Siempre están en efecto.
 
-* **🔄 Habilidades Activas:** Se pueden usar una vez por ronda. Si una Habilidad Activa altera el efecto de una ficha, colócala sobre esa ficha cuando la uses. De lo contrario, voltéala boca abajo para indicar que ya no está disponible durante el resto de la ronda.
+* ![Activa](https://via.placeholder.com/20x20?text=U) **Habilidades Activas:** Se pueden usar una vez por ronda. Si una Habilidad Activa altera el efecto de una ficha, colócala sobre esa ficha cuando la uses. De lo contrario, voltéala boca abajo para indicar que ya no está disponible durante el resto de la ronda.
 
-* **❌ Habilidades de Un Solo Uso:** Solo se pueden usar una vez por partida y luego la ficha se devuelve a la caja del juego.
+* ![Un Solo Uso](https://via.placeholder.com/20x20?text=X) **Habilidades de Un Solo Uso:** Solo se pueden usar una vez por partida y luego la ficha se devuelve a la caja del juego.
 
 ### Efectos de las Habilidades
 
@@ -28,48 +28,32 @@ Las Herramientas son objetos de un solo uso que se descartan después de ser uti
 
 **Límite de Herramientas:** Cada jugador puede llevar hasta 3 herramientas. Si un jugador tiene más de 3 herramientas en cualquier momento, debe elegir 3 para conservar y descartar el resto.
 
-* **🪵 Antorcha – Después de robar una ficha**, aparta la ficha que acabas de robar. Roba una nueva ficha y juégala, luego regresa la ficha apartada a la bolsa.
+* ![Antorcha](https://via.placeholder.com/20x20?text=T) **Antorcha – Después de robar una ficha**, aparta la ficha que acabas de robar. Roba una nueva ficha y juégala, luego regresa la ficha apartada a la bolsa.
 
-* **🪜 Escalera – Después de robar una ficha**, coloca la ficha de escalera en un espacio vacío de tu piso actual. Ese piso está **terminado**. Mueve inmediatamente la figura de tu Héroe y coloca la ficha en el siguiente piso. (Roba un nuevo mapa si es necesario).
+* ![Escalera](https://via.placeholder.com/20x20?text=L) **Escalera – Después de robar una ficha**, coloca la ficha de escalera en un espacio vacío de tu piso actual. Ese piso está **terminado**. Mueve inmediatamente la figura de tu Héroe y coloca la ficha en el siguiente piso. (Roba un nuevo mapa si es necesario).
 
-* **🔑 Llave –** Durante la Resolución, puedes usar una llave para cumplir con un solo requisito de un cofre de tu elección. **No puedes usar más de una llave por cofre.**
+* ![Llave](https://via.placeholder.com/20x20?text=K) **Llave –** Durante la Resolución, puedes usar una llave para cumplir con un solo requisito de un cofre de tu elección. **No puedes usar más de una llave por cofre.**
 
 ## TABLERO DE HÉROE Y REFERENCIA DE HABILIDADES
 
-### Descripción de los Diagramas
+### Diagrama de Ficha de Habilidad
 
-#### **Diagrama de Ficha de Habilidad**
+![Diagrama Ficha Habilidad](assets/tokenhabilidades.png)
 
 * **Símbolo de Héroe:** Se muestra a la izquierda de la ficha.
-
 * **Nivel:** Se muestra en la parte superior central (ej. `1`).
-
 * **Nombre:** Nombre de la habilidad (ej. *TRANSMUTAR*).
-
 * **Tipo de Habilidad:** Icono que indica si es Pasiva, Activa o de Un Solo Uso.
-
 * **Efecto:** Símbolos que representan la acción/efecto (ej. `3x`).
 
-#### **Etiquetas del Tablero de Héroe**
+### Tablero de Héroe y Ayuda de Jugador
 
-* **Símbolo:** (Icono del Héroe en la parte superior)
+![Tablero de Héroe y Ayuda](assets/heroBoardSATCHELQUEST.png)
 
-* **Nombre:** (Nombre del Héroe, ej. *DONDARTON*)
+* **Símbolo / Nombre del Héroe:** Identificación en la parte superior.
+* **Espacio para Fichas de Habilidad y Costes de PX:** Casillas numeradas para colocar las habilidades a medida que subes de nivel.
+* **Track / Medidor de PX y Salud:** Columnas laterales para llevar el conteo.
+* **Recuento Inicial y Detalles de Habilidades:** Impreso directamente en la carta de ayuda del jugador.
 
-* **Espacio para Fichas de Habilidad:** (Casillas para colocar las fichas de habilidad en los niveles 1, 2, 3 y 4)
-
-* **Coste de PX para subir de nivel:** (Indicado al lado de las casillas de habilidad)
-
-* **Track / Medidor de Experiencia (PX):** (Columna numerada en el centro/derecha)
-
-* **Track / Medidor de Salud:** (Columna en el extremo derecho)
-
-#### **Etiquetas de la Carta de Ayuda de Jugador**
-
-* **Recuento Inicial de Fichas:** (Sección superior derecha)
-
-* **Detalles de Habilidades Iniciales:** (Sección superior marcada con 'S')
-
-* **Detalles de Habilidad de Nivel 1:** (Sección media marcada con '1')
-
+---
 *Página 8*
